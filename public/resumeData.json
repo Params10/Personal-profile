@@ -2,7 +2,7 @@
   "main": {
     "name": "Param Shah",
     "occupation": "Full-Stack  Developer",
-    "description": "I love to code , Develop Optimized features and Ideate for the Problems",
+    "description": "I love to code , Develop Optimized features and Ideate to solve the problem ",
     "image": "profilepic.jpg",
     "contactmessage": "Contact me to Develop Interesting software APIs",
     "email": "paramsh10@gmail.com",
@@ -12,22 +12,22 @@
       "state": "Gujarat",
       "zip": "380063"
     },
-    "website": "https://www.alex-portfolio.org/",
-    "resumedownload": "https://drive.google.com/uc?export=pdf&id=1Z5hSjSXwjk3i4BdCfehg0YSAKZ34BDfC",
+    "website": "https://param-profile.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1iWPDIcz2-ReDvRbl3ngqHtLurBcCnrIJ/view?usp=sharing",
     "social": [
       {
         "name": "twitter",
-        "url": "https://twitter.com/alex_maxinova",
+        "url": "https://twitter.com/PARAMS704",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/alexandru-bangau/",
+        "url": "https://www.linkedin.com/in/param-shah-20556a162/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/rammazzoti2000",
+        "url": "https://github.com/Params10",
         "className": "fa fa-github"
       },
       {

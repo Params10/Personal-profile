@@ -67,9 +67,9 @@ class Resume extends Component {
               <i className="devicon-react-plain-wordmark colored technology"></i>
               <i class="devicon-angularjs-plain colored"></i>
               <i class="devicon-python-plain colored"></i>
-              <i>  <img  src="./../images/spring-boot.png"  /></i>
-              <i>  <img  src="./../images/matlab.png"  /></i>
-              <i>  <img  src="./../images/download.png"  /></i>
+              <i>  <img  src="./../images/spring-boot.png"  alt=' spring-boot pic'/></i>
+              <i>  <img  src="./../images/matlab.png" alt=' matlab pic' /></i>
+              <i>  <img  src="./../images/download.png" alt=' UiPath pic' /></i>
 
             </div>
           </section>
